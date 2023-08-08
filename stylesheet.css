@@ -1,0 +1,26 @@
+.bodyContainer{
+    display: flex;
+    flex-direction:column;
+    background-color: rgb(255, 255, 255);
+    flex-wrap: nowrap;
+    justify-content: space-around;
+}
+.bodyItem{
+    background-color: blueviolet;
+    display: flexbox;
+    width: auto;
+    height: 30vh;
+    margin: 5px;
+}
+.title{
+    background-color: rgb(221, 221, 221);
+    height: 20vh;
+}
+.img{
+    background-color: rgb(156, 91, 91);
+    height: 60vh;
+}
+.footer{
+    background-color: rgb(93, 196, 132);
+    height: 10vh;
+}
