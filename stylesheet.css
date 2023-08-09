@@ -27,10 +27,6 @@
     max-height: 800px;
     justify-content: center;
 }
-.footer{
-    background-color: rgb(93, 196, 132);
-    height: fit-content;
-}
 ul{
     margin: 0px;
     padding: 0px;
@@ -52,10 +48,19 @@ li{
     display: flex;
     flex-grow: 1;
     margin: 0px;
-    border: solid black 1px;
     justify-content: center;
     align-items: center;
+    background-image: url(../French-Classics-Club/sources/img/Button.png);
+    background-size: 100% 100%;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
 }
+.navButton:hover{
+    background-size: 100% 100%;
+    background-image: url(../French-Classics-Club/sources/img/Button_hower.png);
+}
+
 
 @media screen and (min-width: 768px) {
     .logo{
