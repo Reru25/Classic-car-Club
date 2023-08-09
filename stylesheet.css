@@ -32,8 +32,21 @@ li{
     flex-grow: 1;
     height: 50px;
 }
+.textBlock{
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    margin-top: 10vw;
+    min-width: 300px;
+    min-height: 800px;
+    height: auto;
+    color: rgb(124, 124, 124);
+    padding: 40px;
+    display: inline;
+    width: 80vw;
+}
+h2{
 
-
+}
 
 
 @media screen and (min-width: 800px) {/* ---------desktop version----------- */
