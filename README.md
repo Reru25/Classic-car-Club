@@ -1,2 +1,2 @@
 # French-Classics-Club
-Classic car club.
+Site cree par Titov Saveliy pour l'evaluation de Studi.
